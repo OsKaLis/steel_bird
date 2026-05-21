@@ -6,10 +6,19 @@
 
 > Чтобы оптимизировать производственные расходы, металлургический комбинат «Стальная птица» решил уменьшить потребление электроэнергии на этапе обработки стали. Для этого комбинату нужно контролировать температуру сплава. Ваша задача — построить модель, которая будет её предсказывать. Заказчик хочет использовать разработанную модель для имитации технологического процесса.
 
-## Cтек технологий:
-<img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey">
-<img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
-<img src="https://img.shields.io/badge/Poetry:_-2.0.0-blue">
+## Cтек технологий: 
+ <img src="https://img.shields.io/badge/Pandas:_-2.2.3-slategrey"> <img src="https://img.shields.io/badge/Python:_-3.13.0-greem">
+ <img src="https://img.shields.io/badge/Poetry:_-2.2.0-blue">
+ <img src="https://img.shields.io/badge/matplotlib:_-3.9.4-blue">
+ <img src="https://img.shields.io/badge/seaborn:_-0.13.2-blue">
+ <img src="https://img.shields.io/badge/numpy:_-1.23.0-blue">
+ <img src="https://img.shields.io/badge/shap:_-0.44.0-blue">
+ <img src="https://img.shields.io/badge/phik:_-0.12.4-blue">
+ <img src="https://img.shields.io/badge/scikit--learn:_-1.6.1-blue">
+ <img src="https://img.shields.io/badge/catboost:_-1.2.8-blue">
+ <img src="https://img.shields.io/badge/sqlalchemy:_-2.0.46-blue">
+ <img src="https://img.shields.io/badge/skorch:_-1.2.0-blue">
+ <img src="https://img.shields.io/badge/optuna:_-4.8.0-blue">
 
 ## Цель проекта
 - Построить модель, которая будет предсказывать температуру сплава.
@@ -65,6 +74,10 @@ poetry run jupyter notebook
 ### 11. Выбрать Select Kernel:
 ```
 steelbird
+```
+### 12. Выбираем фаил для работы
+```
+Через /File >>> steel_bird.ipynb
 ```
 
 ## Автор: Юшко Ю.Ю.
